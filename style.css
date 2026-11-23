@@ -1,0 +1,13 @@
+
+.div {
+background-color: #d7d5d5;
+height: 200px;
+width: 200px;
+} 
+
+section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
